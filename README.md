@@ -2,7 +2,7 @@
 
 A very powerful telegram group management bot.
 
-## Join the [Support channel](https://t.me/jaadu_bot_official) if you just want to stay in the loop about new features or
+## Join the [Support channel](https://t.me/jaadubotofficial) if you just want to stay in the loop about new features or
 announcements.
 
 Alternatively, [find me on telegram](https://t.me/ranger_op)! (Keep all support questions in the support chat, where more people can help you.)
