@@ -164,7 +164,7 @@ def send_start(bot, update):
                              url="https://t.me/jaadu_op_bot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
         ]]
     keyboard += [[
-        InlineKeyboardButton(text=tld(chat.id, '👥 Support Group'), url="https://t.me/jaadu_bot_official")
+        InlineKeyboardButton(text=tld(chat.id, '👥 Support Group'), url="https://t.me/jaadubotofficial")
     ]]
 
     update.effective_message.reply_text(
